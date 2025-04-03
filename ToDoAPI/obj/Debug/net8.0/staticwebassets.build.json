@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "Hash": "tzC5Qvp+QN7l7xRtwZj7Dc1MYtI1LW0OqaozUHsx9c4=",
+  "Source": "ToDoAPI",
+  "BasePath": "_content/ToDoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDoAPI\\wwwroot",
+      "Source": "ToDoAPI",
+      "ContentRoot": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "25o87uqmvr",
+      "Integrity": "Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "QuickGrid.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu7w3d5g1a",
+      "Integrity": "tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
+    },
+    {
+      "Identity": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoAPI.styles.css",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "ToDoAPI#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "02jfxhbwsz",
+      "Integrity": "yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoAPI.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\css\\site.css",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aood3hc00t",
+      "Integrity": "1rpr8Tn9qC/4IsIbEZG85PO6Rt+8vjVRHBn4x4IYCOo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\index.html",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "se8drh5eg3",
+      "Integrity": "1BphKw9aYONKCyOJuNsOdc+3hcKbPoDjSmjNIOALSHY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\js\\site.js",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ddsd8gkxfc",
+      "Integrity": "4ZgzVeHdxZF382mK/Jxi8NLGYA+zgTw9c2FtIt9DD3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Mar 2024 23:35:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
+      "AssetFile": "C:\\Users\\ablit\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Mar 2024 23:19:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.aood3hc00t.css",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1rpr8Tn9qC/4IsIbEZG85PO6Rt+8vjVRHBn4x4IYCOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 06:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aood3hc00t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rpr8Tn9qC/4IsIbEZG85PO6Rt+8vjVRHBn4x4IYCOo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1rpr8Tn9qC/4IsIbEZG85PO6Rt+8vjVRHBn4x4IYCOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 06:44:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rpr8Tn9qC/4IsIbEZG85PO6Rt+8vjVRHBn4x4IYCOo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BphKw9aYONKCyOJuNsOdc+3hcKbPoDjSmjNIOALSHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Jun 2024 16:56:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BphKw9aYONKCyOJuNsOdc+3hcKbPoDjSmjNIOALSHY="
+        }
+      ]
+    },
+    {
+      "Route": "index.se8drh5eg3.html",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BphKw9aYONKCyOJuNsOdc+3hcKbPoDjSmjNIOALSHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Jun 2024 16:56:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se8drh5eg3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BphKw9aYONKCyOJuNsOdc+3hcKbPoDjSmjNIOALSHY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ddsd8gkxfc.js",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZgzVeHdxZF382mK/Jxi8NLGYA+zgTw9c2FtIt9DD3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 06:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ddsd8gkxfc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZgzVeHdxZF382mK/Jxi8NLGYA+zgTw9c2FtIt9DD3g="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZgzVeHdxZF382mK/Jxi8NLGYA+zgTw9c2FtIt9DD3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Jun 2024 06:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZgzVeHdxZF382mK/Jxi8NLGYA+zgTw9c2FtIt9DD3g="
+        }
+      ]
+    },
+    {
+      "Route": "ToDoAPI.02jfxhbwsz.styles.css",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoAPI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Jun 2024 12:23:52 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02jfxhbwsz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI="
+        },
+        {
+          "Name": "label",
+          "Value": "ToDoAPI.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "ToDoAPI.styles.css",
+      "AssetFile": "C:\\Users\\ablit\\source\\repos\\ToDoAPI\\ToDoAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoAPI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Jun 2024 12:23:52 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI="
+        }
+      ]
+    }
+  ]
+}
